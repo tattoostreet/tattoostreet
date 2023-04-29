@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Jon.. . 
-- 👀 I’m interested in random stuff....... . . . 
-- 🌱 I’m currently learning random stuff...
-- 💞️ I’m looking to collaborate on anything...
-- 📫 How to reach me https://www.linkedin.com/in/jonbantayjr/
+<h1>Casual Programmer</h1>
+
+<h4>How to reach me: https://www.linkedin.com/in/jonbantayjr/ </h4>
 
 <!---
 tattoostreet/tattoostreet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
